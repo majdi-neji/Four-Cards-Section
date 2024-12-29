@@ -45,7 +45,6 @@ header {
 .card {
   display: flex;
   flex-direction: column;
-  min-width: 260px;
   width: 100%;
   background-color: var(--white);
   border-radius: 5px;
