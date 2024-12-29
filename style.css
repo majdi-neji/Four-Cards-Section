@@ -118,6 +118,9 @@ h2 {
     grid-gap: 1em;
     padding: 50px 5%;
   }
+  .card {
+    min-width: 256px;
+  }
   .red {
     margin: 0;
   }
