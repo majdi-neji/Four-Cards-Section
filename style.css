@@ -46,7 +46,6 @@ header {
   display: flex;
   flex-direction: column;
   width: 100%;
-  min-width: 265px;
   background-color: var(--white);
   border-radius: 5px;
   padding: 20px;
