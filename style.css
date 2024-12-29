@@ -25,7 +25,7 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding-top: 50px;
+  padding-top: 40px;
 }
 .grid-2 {
   display: none;
@@ -48,7 +48,7 @@ header {
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-between;
-  min-height: 210px;
+  min-height: 250px;
   background-color: var(--white);
   border-radius: 5px;
   padding: 20px;
@@ -56,8 +56,8 @@ header {
     rgba(0, 0, 0, 0.25) 0px 8px 16px -8px;
 }
 img {
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
 }
 .red {
   border-top: 3px solid var(--Red);
@@ -87,8 +87,8 @@ h2 {
 }
 
 h1 {
-  font-size: 2rem;
-  font-weight: 300;
+  font-size: 2.125rem;
+  font-weight: 200;
   letter-spacing: 0.5px;
 }
 strong {
@@ -96,13 +96,13 @@ strong {
   letter-spacing: 0.6px;
 }
 h2 {
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-weight: 600;
   padding-bottom: 10px;
 }
 .card > p {
   padding-bottom: 20px;
-  font-size: 0.75rem;
+  font-size: 0.875rem;
   color: var(--Grayish-Blue);
 }
 .card > img {
